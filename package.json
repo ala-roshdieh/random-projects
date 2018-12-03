@@ -1,0 +1,11 @@
+{
+  "name": "coding",
+  "version": "1.0.0",
+  "description": "JSON file to support random coding projects (will change later)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ala Roshdieh",
+  "license": "ISC"
+}
